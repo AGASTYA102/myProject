@@ -6,7 +6,7 @@ public class Hello {
 
 	@GetMapping("/")
 	public String index() {
-		return "Greetings from MIT_FIN";
+		return "Hello World";
 	}
 	
 
