@@ -6,7 +6,7 @@ public class Hello {
 
 	@GetMapping("/")
 	public String index() {
-		return "Hello World";
+		return "Hello";
 	}
 	
 
